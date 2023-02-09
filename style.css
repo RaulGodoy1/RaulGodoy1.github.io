@@ -1,0 +1,102 @@
+*{
+  color: aliceblue;
+}
+
+::placeholder {
+	color: #e95252;
+    opacity: 1;
+}
+
+:root {
+    background: #292929;
+}
+
+.navbarr{
+  background-color: black;
+  color: aliceblue;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.hero{
+  background-color: #292929;
+  color: aliceblue;
+  padding-top: 50px;
+}
+
+#MIX{
+  padding-top: 300px;
+  padding-right: 5%;
+}
+
+
+#boton1{
+  background-color: #e95252;
+  border-radius: 20px;
+  color: aliceblue;
+  border: 2px solid #e95252; 
+}
+
+#boton2{
+  background-color: #292929;
+  border-radius: 20px;
+  color: #e95252;
+  border: 2px solid #e95252;
+}
+
+.centro{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#texto2{
+  background-color: #b9c26b;
+
+}
+
+#texto3{
+  background-color: #e95252;
+
+}
+.backk{
+  background-color: #494848;
+}
+
+.textoo{
+  background-color: #494848;
+  border: 1px solid #e95252;
+  color: #e95252;
+
+}
+
+
+.tam{
+  width: 40%;
+  margin-left: 20px;
+  height: 30px;
+}
+
+.tam2{
+width: 80%;
+height: 30px;
+
+}
+
+.footer{
+  background-color: black;
+}
+
+.name{
+  color: #e95252;
+}
+
+.parte2{
+  background-color: black;
+  padding-top: 50px ;
+  padding-left: 20%;
+}
+
+.parteparte2{
+  padding-top: 200px;
+  padding-left: 20px;
+}
